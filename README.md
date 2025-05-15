@@ -31,6 +31,7 @@ Upload:
 - `recipe_generator.py`
 - `app.py`
 - `templates/index.html`
+### Step 3: Run the Flask App with ngrok
 
 ### 🟢 Step 2: Install dependencies
 
